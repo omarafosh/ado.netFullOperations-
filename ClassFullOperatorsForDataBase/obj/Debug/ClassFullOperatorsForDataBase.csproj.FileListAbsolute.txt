@@ -1,0 +1,115 @@
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ClassFullOperatorsForDataBase.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ClassFullOperatorsForDataBase.exe
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ClassFullOperatorsForDataBase.pdb
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Data.v20.2.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Utils.v20.2.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Data.v20.2.xml
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Utils.v20.2.xml
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.frmTestDatabase.resources
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.exe
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.pdb
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.exe.licenses
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ClassFullOperatorsForDataBase.exe.config
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.exe
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.pdb
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ClassFullOperatorsForDataBase.exe
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ClassFullOperatorsForDataBase.pdb
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.frmTestDatabase.resources
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.Properties.Resources.resources
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.exe.licenses
+D:\LibraryForAdo.NET\Ado.Net\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\bin\Debug\ClassFullOperatorsForDataBase.exe.config
+D:\LibraryForAdo.NET\Ado.Net\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.exe
+D:\LibraryForAdo.NET\Ado.Net\ClassFullOperatorsForDataBase1\ClassFullOperatorsForDataBase\ClassFullOperatorsForDataBase\obj\Debug\ClassFullOperatorsForDataBase.pdb
