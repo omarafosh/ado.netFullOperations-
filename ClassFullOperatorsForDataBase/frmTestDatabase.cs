@@ -74,6 +74,7 @@ namespace ClassFullOperatorsForDataBase
 
         private void simpleButton5_Click(object sender, EventArgs e)
         {
+            //Exit Button
             Application.Exit();
         }
     }

@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.layoutControl1 = new DevExpress.XtraLayout.LayoutControl();
+            this.simpleButton5 = new DevExpress.XtraEditors.SimpleButton();
             this.simpleButton4 = new DevExpress.XtraEditors.SimpleButton();
             this.checkEdit1 = new DevExpress.XtraEditors.CheckEdit();
-            this.simpleButton3 = new DevExpress.XtraEditors.SimpleButton();
             this.ls = new System.Windows.Forms.ListBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.simpleButton2 = new DevExpress.XtraEditors.SimpleButton();
@@ -51,10 +51,8 @@
             this.layoutControlItem7 = new DevExpress.XtraLayout.LayoutControlItem();
             this.layoutControlItem8 = new DevExpress.XtraLayout.LayoutControlItem();
             this.layoutControlItem9 = new DevExpress.XtraLayout.LayoutControlItem();
-            this.layoutControlItem10 = new DevExpress.XtraLayout.LayoutControlItem();
             this.layoutControlItem6 = new DevExpress.XtraLayout.LayoutControlItem();
             this.layoutControlItem11 = new DevExpress.XtraLayout.LayoutControlItem();
-            this.simpleButton5 = new DevExpress.XtraEditors.SimpleButton();
             this.layoutControlItem12 = new DevExpress.XtraLayout.LayoutControlItem();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControl1)).BeginInit();
             this.layoutControl1.SuspendLayout();
@@ -76,7 +74,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem11)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem12)).BeginInit();
@@ -87,7 +84,6 @@
             this.layoutControl1.Controls.Add(this.simpleButton5);
             this.layoutControl1.Controls.Add(this.simpleButton4);
             this.layoutControl1.Controls.Add(this.checkEdit1);
-            this.layoutControl1.Controls.Add(this.simpleButton3);
             this.layoutControl1.Controls.Add(this.ls);
             this.layoutControl1.Controls.Add(this.pictureBox1);
             this.layoutControl1.Controls.Add(this.simpleButton2);
@@ -104,6 +100,16 @@
             this.layoutControl1.TabIndex = 0;
             this.layoutControl1.Text = "layoutControl1";
             // 
+            // simpleButton5
+            // 
+            this.simpleButton5.Location = new System.Drawing.Point(12, 323);
+            this.simpleButton5.Name = "simpleButton5";
+            this.simpleButton5.Size = new System.Drawing.Size(777, 27);
+            this.simpleButton5.StyleController = this.layoutControl1;
+            this.simpleButton5.TabIndex = 17;
+            this.simpleButton5.Text = "خروج";
+            this.simpleButton5.Click += new System.EventHandler(this.simpleButton5_Click);
+            // 
             // simpleButton4
             // 
             this.simpleButton4.Location = new System.Drawing.Point(517, 118);
@@ -111,7 +117,7 @@
             this.simpleButton4.Size = new System.Drawing.Size(87, 27);
             this.simpleButton4.StyleController = this.layoutControl1;
             this.simpleButton4.TabIndex = 16;
-            this.simpleButton4.Text = "simpleButton4";
+            this.simpleButton4.Text = "Update";
             this.simpleButton4.Click += new System.EventHandler(this.simpleButton4_Click);
             // 
             // checkEdit1
@@ -123,30 +129,20 @@
             this.checkEdit1.StyleController = this.layoutControl1;
             this.checkEdit1.TabIndex = 15;
             // 
-            // simpleButton3
-            // 
-            this.simpleButton3.Location = new System.Drawing.Point(12, 292);
-            this.simpleButton3.Name = "simpleButton3";
-            this.simpleButton3.Size = new System.Drawing.Size(777, 27);
-            this.simpleButton3.StyleController = this.layoutControl1;
-            this.simpleButton3.TabIndex = 14;
-            this.simpleButton3.Text = "simpleButton3";
-            this.simpleButton3.Click += new System.EventHandler(this.simpleButton3_Click);
-            // 
             // ls
             // 
             this.ls.FormattingEnabled = true;
             this.ls.ItemHeight = 16;
             this.ls.Location = new System.Drawing.Point(522, 149);
             this.ls.Name = "ls";
-            this.ls.Size = new System.Drawing.Size(267, 132);
+            this.ls.Size = new System.Drawing.Size(267, 164);
             this.ls.TabIndex = 13;
             // 
             // pictureBox1
             // 
             this.pictureBox1.Location = new System.Drawing.Point(132, 149);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(266, 139);
+            this.pictureBox1.Size = new System.Drawing.Size(266, 170);
             this.pictureBox1.TabIndex = 12;
             this.pictureBox1.TabStop = false;
             // 
@@ -231,7 +227,6 @@
             this.layoutControlItem7,
             this.layoutControlItem8,
             this.layoutControlItem9,
-            this.layoutControlItem10,
             this.layoutControlItem6,
             this.layoutControlItem11,
             this.layoutControlItem12});
@@ -318,7 +313,7 @@
             this.layoutControlItem8.Control = this.pictureBox1;
             this.layoutControlItem8.Location = new System.Drawing.Point(0, 137);
             this.layoutControlItem8.Name = "layoutControlItem8";
-            this.layoutControlItem8.Size = new System.Drawing.Size(390, 143);
+            this.layoutControlItem8.Size = new System.Drawing.Size(390, 174);
             this.layoutControlItem8.TextSize = new System.Drawing.Size(108, 16);
             // 
             // layoutControlItem9
@@ -326,17 +321,8 @@
             this.layoutControlItem9.Control = this.ls;
             this.layoutControlItem9.Location = new System.Drawing.Point(390, 137);
             this.layoutControlItem9.Name = "layoutControlItem9";
-            this.layoutControlItem9.Size = new System.Drawing.Size(391, 143);
+            this.layoutControlItem9.Size = new System.Drawing.Size(391, 174);
             this.layoutControlItem9.TextSize = new System.Drawing.Size(108, 16);
-            // 
-            // layoutControlItem10
-            // 
-            this.layoutControlItem10.Control = this.simpleButton3;
-            this.layoutControlItem10.Location = new System.Drawing.Point(0, 280);
-            this.layoutControlItem10.Name = "layoutControlItem10";
-            this.layoutControlItem10.Size = new System.Drawing.Size(781, 31);
-            this.layoutControlItem10.TextSize = new System.Drawing.Size(0, 0);
-            this.layoutControlItem10.TextVisible = false;
             // 
             // layoutControlItem6
             // 
@@ -355,16 +341,6 @@
             this.layoutControlItem11.Size = new System.Drawing.Size(91, 31);
             this.layoutControlItem11.TextSize = new System.Drawing.Size(0, 0);
             this.layoutControlItem11.TextVisible = false;
-            // 
-            // simpleButton5
-            // 
-            this.simpleButton5.Location = new System.Drawing.Point(12, 323);
-            this.simpleButton5.Name = "simpleButton5";
-            this.simpleButton5.Size = new System.Drawing.Size(777, 27);
-            this.simpleButton5.StyleController = this.layoutControl1;
-            this.simpleButton5.TabIndex = 17;
-            this.simpleButton5.Text = "خروج";
-            this.simpleButton5.Click += new System.EventHandler(this.simpleButton5_Click);
             // 
             // layoutControlItem12
             // 
@@ -405,7 +381,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem11)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.layoutControlItem12)).EndInit();
@@ -435,8 +410,6 @@
         private DevExpress.XtraLayout.LayoutControlItem layoutControlItem8;
         private System.Windows.Forms.ListBox ls;
         private DevExpress.XtraLayout.LayoutControlItem layoutControlItem9;
-        private DevExpress.XtraEditors.SimpleButton simpleButton3;
-        private DevExpress.XtraLayout.LayoutControlItem layoutControlItem10;
         private DevExpress.XtraEditors.CheckEdit checkEdit1;
         private DevExpress.XtraLayout.LayoutControlItem layoutControlItem6;
         private DevExpress.XtraEditors.SimpleButton simpleButton4;
